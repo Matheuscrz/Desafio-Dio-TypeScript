@@ -178,3 +178,4 @@ function pegarLista() {
         console.log(result);
     });
 }
+console.log('test');
